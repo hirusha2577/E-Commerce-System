@@ -1,0 +1,29 @@
+.main-container {
+    background-color: rgb(241, 241, 241);
+}
+
+.from-card {
+    margin: 10px 40px 40px 40px;
+}
+
+.form-title {
+    margin-bottom: 20px;
+}
+
+
+.table-card {
+    margin: 10px 40px 40px 40px;
+}
+
+.delete-icon:hover {
+    color: red;
+}
+
+.edit-icon:hover {
+    color: green;
+}
+
+.sub-category-category-name{
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
